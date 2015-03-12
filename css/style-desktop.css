@@ -48,7 +48,7 @@
 			
 				ul.contact li
 				{
-					margin-left: 1em;
+					margin-left: 0.5em;
 				}
 
 /*********************************************************************************/
@@ -182,6 +182,7 @@
 			
 				#footer .copyright li:first-child
 				{
+					font-size: smaller;
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
