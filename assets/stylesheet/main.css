@@ -8,8 +8,6 @@ margin:0;
 padding:0;
 }
 
-p{
-font-size:1.2em;
 }
 
 html,body {
@@ -315,14 +313,24 @@ padding:14px 12px;
 width:500px;
 position:relative;
 left:-75px;
+bottom:25px;
 text-align:center;
 padding-top:70px;
 opacity:0;
 }
 
 .main .main_info h1 {
-font-size:3em;
-font-weight:400;
+font-size:3.5em;
+font-weight:300;
+text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+color: #e0e0e0;
+}
+
+.main.main_info p{
+font-size:1.2em;
+font-weight:300;
+text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+color: #e0e0e0;
 }
 
 .page {
