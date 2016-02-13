@@ -537,9 +537,34 @@
 						text-shadow: 1.25px 0px 0px #A4A4A4, -1.25px 0px 0px #A4A4A4, 0px 1.25px 0px #A4A4A4, 0px -1.25px 0px #A4A4A4;
 					}
 
-					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #0055FF, -1.25px 0px 0px #0055FF, 0px 1.25px 0px #0055FF, 0px -1.25px 0px #0055FF;
+					ul.icons li a.fa-facebook:hover:before {
+						text-shadow: 1.25px 0px 0px #3b5998, -1.25px 0px 0px #3b5998, 0px 1.25px 0px #3b5998, 0px -1.25px 0px #3b5998;
 					}
+
+					ul.icons li a.fa-instagram:hover:before {
+                                                text-shadow: 1.25px 0px 0px #9b6954, -1.25px 0px 0px #9b6954, 0px 1.25px 0px #9b6954, 0px -1.25px 0px #9b6954;
+                                        }
+
+					ul.icons li a.fa-twitter:hover:before {
+                                                text-shadow: 1.25px 0px 0px #55acee, -1.25px 0px 0px #55acee, 0px 1.25px 0px #55acee, 0px -1.25px 0px #55acee;
+                                        }
+
+					ul.icons li a.fa-google-plus:hover:before {
+                                                text-shadow: 1.25px 0px 0px #dc4e41, -1.25px 0px 0px #dc4e41, 0px 1.25px 0px #dc4e41, 0px -1.25px 0px #dc4e41;
+                                        }
+
+					ul.icons li a.fa-envelope-o:hover:before {
+                                                text-shadow: 1.25px 0px 0px #fbbc05, -1.25px 0px 0px #fbbc05, 0px 1.25px 0px #fbbc05, 0px -1.25px 0px #fbbc05;
+                                        }
+
+					ul.icons li a.fa-github:hover:before {
+                                                text-shadow: 1.25px 0px 0px #000000, -1.25px 0px 0px #000000, 0px 1.25px 0px #000000, 0px -1.25px 0px #000000;
+                                        }
+
+					ul.icons li a.fa-linkedin:hover:before {
+                                                text-shadow: 1.25px 0px 0px #0077b5, -1.25px 0px 0px #0077b5, 0px 1.25px 0px #0077b5, 0px -1.25px 0px #0077b5;
+                                        }
+
 
 					ul.icons li a:before {
 						position: absolute;
@@ -553,9 +578,33 @@
 						text-indent: 0;
 					}
 
-					ul.icons li a:hover {
-						border-color: #0055FF;
+					ul.icons li a.fa-facebook:hover {
+						border-color: #3b5998;
 					}
+
+					ul.icons li a.fa-instagram:hover {
+                                                border-color: #9b6954;
+                                        }
+
+					ul.icons li a.fa-twitter:hover {
+                                                border-color: #55acee;
+                                        }
+
+					ul.icons li a.fa-google-plus:hover {
+                                                border-color: #dc4e41;
+                                        }
+					
+					ul.icons li a.fa-envelope-o:hover {
+                                                border-color: #fbbc05;
+                                        }
+
+					ul.icons li a.fa-github:hover {
+                                                border-color: #000000;
+                                        }
+
+					ul.icons li a.fa-linkedin:hover {
+                                                border-color: #0077b5;
+                                        }
 
 			@media screen and (max-width: 480px) {
 
