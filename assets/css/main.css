@@ -85,7 +85,7 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("../../images/bg.jpg");
+		background-image: url("../../resources/bg.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: bottom center;
@@ -545,7 +545,7 @@
                                                 text-shadow: 1.25px 0px 0px #9b6954, -1.25px 0px 0px #9b6954, 0px 1.25px 0px #9b6954, 0px -1.25px 0px #9b6954;
                                         }
 
-					ul.icons li a.fa-twitter:hover:before {
+					ul.icons li a.fa-file-text-o:hover:before {
                                                 text-shadow: 1.25px 0px 0px #55acee, -1.25px 0px 0px #55acee, 0px 1.25px 0px #55acee, 0px -1.25px 0px #55acee;
                                         }
 
@@ -586,7 +586,7 @@
                                                 border-color: #9b6954;
                                         }
 
-					ul.icons li a.fa-twitter:hover {
+					ul.icons li a.fa-file-text-o:hover {
                                                 border-color: #55acee;
                                         }
 
